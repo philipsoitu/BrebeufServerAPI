@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "Olivier Saint-Vincent",
+    "email": "olivier520100@gmail.com",
+    "number": "4385302718",
+    "address": "105 Rue Saint-Judes"
+  },
+  "workexperience": [
+    {
+      "title": "Project Manager",
+      "company": "Microsoft",
+      "period": "Jan 1st 2024 - Feb 2nd 2024",
+      "description": "Led a team of engineers to build a button for azure"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Java"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English"
+    },
+    {
+      "name": "French"
+    }
+  ],
+  "education": [
+    {
+      "institution": "College Bois-de-Boulogne",
+      "degree": "DEC",
+      "year": "2024"
+    }
+  ]
+}
